@@ -1,3 +1,3 @@
 # harbor-library
-哈伯图书馆
+选择“哈伯图书馆-书名及链接汇总”；
 点击download或者view raw,都可以下载。
